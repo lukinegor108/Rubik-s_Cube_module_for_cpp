@@ -2,6 +2,8 @@
 Module for c++ programms, which allows to create and work with Rubik's Cube.
 
 class Cube allows you to make the Rubik's Cube and work with it.
+(there is an example of using this module, see example.cpp)
+
 I implemented all 54 possible moves & rotations:
 
 (to find info about Rubik's Cube notation look here: https://www.speedsolving.com/wiki/index.php/NxNxN_Notation)
